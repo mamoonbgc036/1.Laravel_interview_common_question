@@ -1,0 +1,10 @@
+1.what is dependency injection
+2.session and cookies
+3.how laravel manage session and cookies
+4.laravel request life cycle
+5.eager loading and lazy loading
+6.type of authantication
+7.repository pattern in laravel
+8.services provider and services container
+9.db partisioning
+10.how sanctum work
